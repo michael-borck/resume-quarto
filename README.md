@@ -1,5 +1,9 @@
 # resume-quarto
 
+<!-- BADGES:START -->
+[![css](https://img.shields.io/badge/-css-1572b6?style=flat-square)](https://github.com/topics/css) [![latex](https://img.shields.io/badge/-latex-blue?style=flat-square)](https://github.com/topics/latex) [![personal-website](https://img.shields.io/badge/-personal--website-blue?style=flat-square)](https://github.com/topics/personal-website) [![portfolio](https://img.shields.io/badge/-portfolio-blue?style=flat-square)](https://github.com/topics/portfolio) [![quarto](https://img.shields.io/badge/-quarto-blue?style=flat-square)](https://github.com/topics/quarto) [![resume](https://img.shields.io/badge/-resume-00bcd4?style=flat-square)](https://github.com/topics/resume) [![academic](https://img.shields.io/badge/-academic-blue?style=flat-square)](https://github.com/topics/academic) [![github-pages](https://img.shields.io/badge/-github--pages-blue?style=flat-square)](https://github.com/topics/github-pages) [![static-site](https://img.shields.io/badge/-static--site-blue?style=flat-square)](https://github.com/topics/static-site) [![tex](https://img.shields.io/badge/-tex-blue?style=flat-square)](https://github.com/topics/tex)
+<!-- BADGES:END -->
+
 A personal website and portfolio built with Quarto, showcasing professional work, research, projects, and interests. The site combines LaTeX typesetting with modern web technologies to create a comprehensive academic and professional presence.
 
 ## Overview
